@@ -1,4 +1,4 @@
-# gitconflict
+# LOCAL
 
-## Lets see some conflicts
+## Lets see some  merge conflicts 
 ### ncjöb fnröqf nqäifiär
